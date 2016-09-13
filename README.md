@@ -1,5 +1,5 @@
 # Github Viewer in React Native 
-Version 1.0
+Version 0.1
 
 ### Setup
 
